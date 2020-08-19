@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/test_task/static/css/main.1eeb2ee1.chunk.css",
+    "main.js": "/test_task/static/js/main.cd0d8759.chunk.js",
+    "main.js.map": "/test_task/static/js/main.cd0d8759.chunk.js.map",
+    "runtime-main.js": "/test_task/static/js/runtime-main.2c49d933.js",
+    "runtime-main.js.map": "/test_task/static/js/runtime-main.2c49d933.js.map",
+    "static/js/2.8272f644.chunk.js": "/test_task/static/js/2.8272f644.chunk.js",
+    "static/js/2.8272f644.chunk.js.map": "/test_task/static/js/2.8272f644.chunk.js.map",
+    "index.html": "/test_task/index.html",
+    "precache-manifest.4adc360932d4d4f6b55b79df58f8a8a9.js": "/test_task/precache-manifest.4adc360932d4d4f6b55b79df58f8a8a9.js",
+    "service-worker.js": "/test_task/service-worker.js",
+    "static/css/main.1eeb2ee1.chunk.css.map": "/test_task/static/css/main.1eeb2ee1.chunk.css.map",
+    "static/js/2.8272f644.chunk.js.LICENSE.txt": "/test_task/static/js/2.8272f644.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/test_task/static/media/Exo2.0-Thin.c977b8b8.ttf",
+    "static/media/background.png": "/test_task/static/media/background.c921e24b.png",
+    "static/media/card1.png": "/test_task/static/media/card1.0ed2b744.png",
+    "static/media/card2.png": "/test_task/static/media/card2.cd5a7a2a.png",
+    "static/media/card3.png": "/test_task/static/media/card3.8aa477ef.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c49d933.js",
+    "static/js/2.8272f644.chunk.js",
+    "static/css/main.1eeb2ee1.chunk.css",
+    "static/js/main.cd0d8759.chunk.js"
+  ]
+}
